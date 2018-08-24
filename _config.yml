@@ -3,9 +3,9 @@ title: YF Blog
 SEOTitle: 叨叨的博客 | YF Blog
 header-img: img/home-bg.jpg
 email: yunye111@gmail.com
-description: "关于前端与设计、黑客与画家 | 叨叨，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux叨叨 的个人博客，与你一起发现更大的世界。"
-keyword: "叨叨, Hux叨叨, Hux, 鬼栈, huxpro, @huxpro, 叨叨的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+description: "关于前端与设计、黑客与画家 | 叨叨，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @YF叨叨 的个人博客，与你一起发现更大的世界。"
+keyword: "叨叨, YF叨叨, YF, 鬼栈, YFpro, @YFpro, 叨叨的博客, YF Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+url: "https://yffcloud.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
-#facebook_username:  huxpro
+weibo_username:     YFpro
+zhihu_username:     YFpro
+github_username:    YFpro
+twitter_username:   YFpro
+#facebook_username:  YFpro
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -53,7 +53,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: YF
 
 # Netease settings
 netease_comment: false
@@ -73,7 +73,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-yf-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
