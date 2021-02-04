@@ -6,7 +6,7 @@
     "homepage": "https://yunfang.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/yunfqueen/yunfang.github.io.github.io"
+        "url": "https://github.com/yunfqueen/yunfang.github.io"
     },
     "bugs": "https://github.com/yunfqueen/yunfang.github.io/issues",
     "devDependencies": {
